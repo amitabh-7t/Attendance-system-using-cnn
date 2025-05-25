@@ -36,7 +36,7 @@ This system solves the inefficiency and manual workload of traditional attendanc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/attendance-system.git
+git clone https://github.com/amitabh-7t/Attendance-system-using-cnn.git
 cd attendance-system
 
 # Install dependencies using PNPM
@@ -136,8 +136,8 @@ For support, feedback, or collaboration opportunities, please contact:
 
 **Amitabh Thakur**  
 Founder & MD, Humans Care Foundation  
-📧 Email: [your.email@example.com]  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
+📧 Email: ENG23AM0215@dsu.edu.in  
+🔗 GitHub: [@yourusername](https://github.com/amitabh-7t)
 
 ---
 
