@@ -137,7 +137,7 @@ For support, feedback, or collaboration opportunities, please contact:
 **Amitabh Thakur**  
 Founder & MD, Humans Care Foundation  
 📧 Email: ENG23AM0215@dsu.edu.in  
-🔗 GitHub: [@yourusername](https://github.com/amitabh-7t)
+🔗 GitHub: [@Amitabh-7t](https://github.com/amitabh-7t)
 
 ---
 
