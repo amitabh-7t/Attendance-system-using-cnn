@@ -1,0 +1,8 @@
+PATH:
+  DATASET_DIR: "./dataset"
+  PKL_PATH: "./dataset/database.pkl"
+  DB_PATH: "./attendance.db"
+
+INFO:
+  PICTURE_PROMPT: "Upload a picture to recognize faces"
+  WEBCAM_PROMPT: "Use webcam to recognize faces in real-time"
